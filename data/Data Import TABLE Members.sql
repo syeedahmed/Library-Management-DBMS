@@ -1,0 +1,21 @@
+-- Data Import TABLE Members
+INSERT INTO Members (member_id, name, email, phone_number, membership_date) VALUES(1, 'Member 1', 'member1@example.com', '1234567890', '2023-01-01');
+INSERT INTO Members (member_id, name, email, phone_number, membership_date) VALUES(2, 'Member 2', 'member2@example.com', '0987654321', '2023-02-01');
+INSERT INTO Members (member_id, name, email, phone_number, membership_date) VALUES(3, 'Member 3', 'member3@example.com', '1112223333', '2023-03-01');
+INSERT INTO Members (member_id, name, email, phone_number, membership_date) VALUES(4, 'Member 4', 'member4@example.com', '4445556666', '2023-04-01');
+INSERT INTO Members (member_id, name, email, phone_number, membership_date) VALUES(5, 'Member 5', 'member5@example.com', '7778889999', '2023-05-01');
+INSERT INTO Members (member_id, name, email, phone_number, membership_date) VALUES(6, 'Member 6', 'member6@example.com', '0001112222', '2023-06-01');
+INSERT INTO Members (member_id, name, email, phone_number, membership_date) VALUES(7, 'Member 7', 'member7@example.com', '3334445555', '2023-07-01');
+INSERT INTO Members (member_id, name, email, phone_number, membership_date) VALUES(8, 'Member 8', 'member8@example.com', '6667778888', '2023-08-01');
+INSERT INTO Members (member_id, name, email, phone_number, membership_date) VALUES(9, 'Member 9', 'member9@example.com', '9990001111', '2023-09-01');
+INSERT INTO Members (member_id, name, email, phone_number, membership_date) VALUES(10, 'Member 10', 'member10@example.com', '2223334444', '2023-10-01');
+INSERT INTO Members (member_id, name, email, phone_number, membership_date) VALUES(11, 'Member 11', 'member11@example.com', '5556667777', '2023-11-01');
+INSERT INTO Members (member_id, name, email, phone_number, membership_date) VALUES(12, 'Member 12', 'member12@example.com', '8889990000', '2023-12-01');
+INSERT INTO Members (member_id, name, email, phone_number, membership_date) VALUES(13, 'Member 13', 'member13@example.com', '1231231234', '2024-01-01');
+INSERT INTO Members (member_id, name, email, phone_number, membership_date) VALUES(14, 'Member 14', 'member14@example.com', '4564564567', '2024-02-01');
+INSERT INTO Members (member_id, name, email, phone_number, membership_date) VALUES(15, 'Member 15', 'member15@example.com', '7897897890', '2024-03-01');
+INSERT INTO Members (member_id, name, email, phone_number, membership_date) VALUES(16, 'Member 16', 'member16@example.com', '3213213214', '2024-04-01');
+INSERT INTO Members (member_id, name, email, phone_number, membership_date) VALUES(17, 'Member 17', 'member17@example.com', '6546546547', '2024-05-01');
+INSERT INTO Members (member_id, name, email, phone_number, membership_date) VALUES(18, 'Member 18', 'member18@example.com', '9879879870', '2024-06-01');
+INSERT INTO Members (member_id, name, email, phone_number, membership_date) VALUES(19, 'Member 19', 'member19@example.com', '1351351354', '2024-07-01');
+INSERT INTO Members (member_id, name, email, phone_number, membership_date) VALUES(20, 'Member 20', 'member20@example.com', '2462462467', '2024-08-01');
