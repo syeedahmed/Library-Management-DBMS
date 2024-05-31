@@ -41,7 +41,8 @@ Features
 
 ER Diagram
 
-![ER diagram for the library management system](https://github.com/syeedahmed/Library-Management-DBMS/er_diagram_image)
+![ER diagram for the library management system](https://github.com/syeedahmed/Library-Management-DBMS/assets/62342624/4f7ca0b0-1d9a-4443-a866-4abc13cb58a7)
+
 Database Schema Explanation
 
     Books: Stores book information including title, author, genre, publication year, and available copies.
