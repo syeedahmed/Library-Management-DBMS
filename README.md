@@ -14,7 +14,7 @@ Developer Guidelines
     Access optimized SQL queries in the /queries directory.
     For maintenance tasks, refer to the /maintenance directory.
     Set up backups using scripts from the /backup directory.
-
+    Read `/doc/database_schema_explanation.md` for Breadcrumbs.
 Deployment Guidelines
 
     Clone the repository.
